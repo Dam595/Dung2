@@ -1,0 +1,15 @@
+body{
+	
+	margin:0 ;
+}
+header{
+	background-color: peachpuff ;
+	text-align: center;
+}
+header h1{
+	color: hotpink;
+}
+header img{
+	border-radius: 140px;
+	border: 10px solid salmon;
+}
